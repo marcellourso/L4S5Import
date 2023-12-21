@@ -1,0 +1,1 @@
+this project is a test to import stm32 project in platformio. This first experienced suggest to import .c and .h file all together in src folder of the new project created in platformio for the repostitory
